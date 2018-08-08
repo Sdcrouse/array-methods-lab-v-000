@@ -8,7 +8,8 @@ end
 
 def using_reverse(array)
   array.reverse 
-  # Arrays? Learning? Really, am I? Wow
+  # Arrays? Learning? Really, am I? Wow!
+  # See the spec for this method to get my little joke...
 end
 
 def using_first(array)
